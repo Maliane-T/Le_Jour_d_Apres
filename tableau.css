@@ -1,0 +1,14 @@
+﻿.legagnant{color:blue;  /*commentaire dans la feuille de style*/
+    background-color:yellow;}
+    .perdu{color:green;
+    background-color:#ecc;}
+    table {border: 1px solid black;
+    background-color:#bbb;
+     border-collapse: collapse;}
+    th,td{
+    border: 1px solid black;
+   
+    }
+    #th1{
+    background-color: purple;
+    }
